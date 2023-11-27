@@ -37,7 +37,7 @@ function App() {
             <p><b>City: </b>{data.name}</p>
           </div>
           <div className='temp'>
-            {data.main ? <h1>Temperature: {Math.floor((data.main.temp-32)*(5/9))}°C</h1> : null}
+            {data.main ? <h1>Temperature: {Math.floor(data.main.temp)}°C</h1> : null}
           </div>
           <div className='description'>
             {data.weather ? <p>{data.weather[0].main}</p> : null}
