@@ -14,7 +14,8 @@ Responsive Design: The Simple Weather App is designed to be responsive, ensuring
 
 Minimalist Interface: The app boasts a minimalist interface, prioritizing the display of essential weather information without unnecessary clutter. This design approach enhances usability and ensures that users can quickly access the data they need.
 
- [weatherapp_ss](https://github.com/sdn-krishna/Weather-App/assets/148681602/5afee080-d7d4-4551-b72f-8e8441e46f11)
+![weatherapp_ss](https://github.com/sdn-krishna/Weather-App/assets/148681602/63b164e9-e2b1-4566-a37e-1ae92271bd62)
+
 
 Technologies Used:
 
