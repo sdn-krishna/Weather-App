@@ -1,5 +1,7 @@
 The Simple Weather App is a user-friendly application built using React.js that provides real-time weather information based on user input. With a sleek and intuitive interface, users can easily obtain essential weather data for any city around the globe.
 
+the deployed website link : https://weather-app-any.vercel.app/
+
 Features:
 
 User Input: The app allows users to input the name of the city they want to check the weather for. This input field is prominently displayed at the top of the interface, making it easily accessible.
